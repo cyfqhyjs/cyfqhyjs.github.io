@@ -1,3 +1,11 @@
-# jekyll local file
-.jekyll*
-_site
+# Jekyll generated files and caches
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
